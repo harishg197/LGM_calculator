@@ -1,1 +1,1 @@
-# LGM_calculator
+# LETS GROW MORE - calculator
